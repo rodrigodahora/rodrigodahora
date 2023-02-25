@@ -23,4 +23,6 @@
 
 ##
 
+![Snake animation](https://github.com/rodrigodahora/rodrigodahora/blob/output/github-contribution-grid-snake.svg)
+
 
