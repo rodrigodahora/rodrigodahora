@@ -16,20 +16,14 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">  
   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.tenor.com/323Ri2uOwCAAAAAS/gojo-satoru.gif">
 </div>
-
 <br>
 <br>
 <br>
 <br>
-
 <div> 
   <h2>Redes Sociais</h2>
   <a href="https://www.instagram.com/natandh/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:rnattan82@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href = "https://www.linkedin.com/in/natandh/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
-
-https://user-images.githubusercontent.com/36707264/222497601-14555cba-003c-4a30-b257-202091ab7712.mov
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4169E1&height=120&section=footer"/>
-
