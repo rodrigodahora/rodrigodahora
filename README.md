@@ -11,10 +11,10 @@
 
 <div style="display: inline_block">
   <h2>Skill's</h2>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">  
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.tenor.com/323Ri2uOwCAAAAAS/gojo-satoru.gif">
+  <img align="center" alt="Rodrigo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Rodrigo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Rodrio-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">  
+  <img align="right" alt="Rodrigo-pic" height="150" style="border-radius:50px;" src="https://media.tenor.com/323Ri2uOwCAAAAAS/gojo-satoru.gif">
 </div>
 <br>
 <br>
