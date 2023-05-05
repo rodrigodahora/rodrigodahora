@@ -25,5 +25,9 @@
   <a href="https://www.instagram.com/natandh/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:rnattan82@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href = "https://www.linkedin.com/in/natandh/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
+  </div>
+  <div style="display: inline_block">
+    <h2>Welcome to the Mato
+    <img align="center" alt="Bulbasaur" style="padding-bottom: 30px" height="50" width="60" src="https://i.gifer.com/origin/fe/fe4ebd8a9c0547e94000a9c759acf591.gif"></h2>
+  </div>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4169E1&height=120&section=footer"/>
