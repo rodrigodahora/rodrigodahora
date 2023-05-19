@@ -25,7 +25,7 @@
 <br>
 <div> 
   <h2>Redes Sociais</h2>
-  <a href="https://www.instagram.com/natandh/" rel=noopener><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="https://www.instagram.com/natandh/" target= "_blank" rel="noopener"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
   <a href = "mailto:rnattan82@gmail.com" rel=noopener><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href = "https://www.linkedin.com/in/natandh/" rel=noopener><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
   </div>
