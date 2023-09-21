@@ -1,6 +1,10 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4169E1&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00BFFF&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Rodrigo+daHora;Eu+tenho+26+anos;Sou+estudante+de+desenvolvimento+de+software;Foco+em+Back-end+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00BFFF&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Rodrigo+daHora;)](https://git.io/typing-svg)
+
+Eu tenho 26 anos, sou desenvolvedor em formação, desde já agradeço a visita. Meu estudo é em Full Stack, porém foquei mais no back-end por adquirir mais afinidade.
+Me considero proativo, resiliente e consigo ter uma boa comunicação; a serenidade, acredito, é a minha maior qualidade. Qualquer dúvida, é só entrar em contato,
+minhas redes estão logo abaixo.
 
 ##
 
@@ -17,7 +21,7 @@
   <img align="center" alt="Rodrio-REACT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"> 
   <img align="center" alt="Rodrio-TypeScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"> 
   <img align="center" alt="Rodrio-JAVA" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"> 
-  <img align="right" alt="Rodrigo-pic" height="150" style="border-radius:50px;" src="https://media.tenor.com/323Ri2uOwCAAAAAS/gojo-satoru.gif">
+  <img align="right" alt="Rodrigo-pic" height="157" src="https://media.tenor.com/323Ri2uOwCAAAAAS/gojo-satoru.gif">
 </div>
 <br>
 <br>
