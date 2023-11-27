@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00BFFF&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Rodrigo+daHora;)](https://git.io/typing-svg)
 
-Eu tenho 26 anos, sou desenvolvedor em formação, desde já agradeço a visita. Meu estudo é em Full Stack, porém foquei mais no back-end por adquirir mais afinidade.
+Eu tenho 26 anos, sou desenvolvedor fullStack, desde já agradeço a visita. Meu estudo é em Full Stack, porém foquei mais no back-end por adquirir mais afinidade.
 Me considero proativo, resiliente e consigo ter uma boa comunicação; a serenidade, acredito, é a minha maior qualidade. Qualquer dúvida, é só entrar em contato,
 minhas redes estão logo abaixo.
 
