@@ -21,7 +21,6 @@ minhas redes estão logo abaixo.
   <img align="center" alt="Rodrio-REACT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"> 
   <img align="center" alt="Rodrio-TypeScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"> 
   <img align="center" alt="Rodrio-JAVA" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"> 
-  <img align="right" alt="Rodrigo-pic" height="157" src="https://media.tenor.com/323Ri2uOwCAAAAAS/gojo-satoru.gif">
 </div>
 <br>
 <br>
