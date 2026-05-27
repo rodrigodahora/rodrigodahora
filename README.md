@@ -8,11 +8,6 @@ minhas redes estão logo abaixo.
 
 ##
 
-<div align="center"> 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rodrigodahora&show_icons=true&count_private=true&hide_border=true&title_color=00BFFF&icon_color=FFD700&text_color=c9d1d9&bg_color=0d1117" alt="RodrigodaHora github stats"/> 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigodahora&layout=compact&hide_border=true&title_color=00BFFF&text_color=ff91a4&bg_color=0d1117"/>
-</div>
-
 <div style="display: inline_block">
   <h2>Skill's</h2>
   <img align="center" alt="Rodrigo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
